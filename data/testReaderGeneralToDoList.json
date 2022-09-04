@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "name": "task 1",
+            "description": "description 1",
+            "completion": false
+        },
+        {
+            "name": "task 2",
+            "description": "description 2",
+            "completion": false
+        }
+    ]
+}
